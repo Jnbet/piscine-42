@@ -1,0 +1,5 @@
+Credentials cache: API:E2D1AA9C-4921-4BC1-9E45-BF1530232280
+        Principal: jnabet@42.FR
+
+  Issued                Expires               Principal
+Aug 27 13:49:54 2018  Sep  3 13:49:39 2018  krbtgt/42.FR@42.FR
